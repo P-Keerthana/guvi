@@ -24,8 +24,8 @@ public class NumEqualToIndex {
 		}
 		if (count != 1) {
 			System.out.println("No element should be equal ");
-			scanner.close();
 		}
+		scanner.close();
 	}
 
 }
